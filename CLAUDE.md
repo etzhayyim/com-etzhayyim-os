@@ -135,7 +135,7 @@ All labels include RLS columns: `org_id`, `user_id`, `actor_id`, `created_at`.
 ## Nested References
 
 - KAMI Engine: `40-engine/kami-engine/CLAUDE.md`
-- Kotodama SDK: `40-engine/kotoba/crates/kotoba-kotodama/CLAUDE.md`
+- Kotodama SDK: `kotoba-lang/kotoba/crates/kotoba-kotodama/CLAUDE.md`
 - WIT contracts: `_archive/00-contracts/wit/` (archived 2026-04-12)
 - Automaton WIT: `provider/automaton/wit/automaton.wit`
 - Projects rules: `60-apps/CLAUDE.md`
